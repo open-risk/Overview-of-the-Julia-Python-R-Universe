@@ -25,6 +25,8 @@ If you want to add/remove/change something at the package level
 
 
 ### Overall Categorization / Segmentation
-We welcome also suggestions to the overall structure (the different categories / subcategories)
+We welcome also suggestions to the overall structure (the different categories / subcategories). The current structure looks as follows:
 
+
+![image](https://user-images.githubusercontent.com/6192002/172307517-a369c25b-8993-490b-92c7-6c99c0087a9e.png)
 
